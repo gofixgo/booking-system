@@ -1,9 +1,6 @@
-# Room Booking System
-A room booking system built with MongoDB, Express, Node.js and ReactJS.
+# Booking System
+A booking system built with MongoDB, Express, Node.js and ReactJS.
 
-![Logo](docs/logo.png)
-
-[Presentation](http://slides.com/juliaryan/room-booking-system/fullscreen)
 ## Table of Contents
 
 * [Getting started](#getting-started)
@@ -295,8 +292,3 @@ We designed the application to be an intuitive and simple, yet powerful way to n
 - Editing bookings
 - CMS
 - Google Calendar
-
-## Team
-- [George](https://github.com/tagma-1)
-- [Nick](https://github.com/nick-son)
-- [Julia](https://github.com/julia-)
